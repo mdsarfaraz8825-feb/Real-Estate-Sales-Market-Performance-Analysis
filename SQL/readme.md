@@ -17,4 +17,3 @@ Contains:
 - LAG
 - LEAD
 
-Database: MySQL 8.0
